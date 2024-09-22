@@ -19,9 +19,6 @@ Servo motors have three wires: power, ground, and signal. The power wire is typi
 
 (Images developed using Fritzing. For more circuit examples, see the [Fritzing project page](http://fritzing.org/projects/))
 
-## Schematic
-
-![](Users\liuke\OneDrive\Documents\Arduino\hackatonrastic/sweep_schem.png)
 
 ## See also
 

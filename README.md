@@ -15,13 +15,13 @@ Sweeps the shaft of a RC [servo motor](http://en.wikipedia.org/wiki/Servo_motor#
 
 Servo motors have three wires: power, ground, and signal. The power wire is typically red, and should be connected to the 5V pin on the Arduino board. The ground wire is typically black or brown and should be connected to a ground pin on the board. The signal pin is typically yellow, orange or white and should be connected to pin 9 on the board.
 
-![](C:\Users\liuke\OneDrive\Documents\Arduino\hackatonrastic/sweep_bb.png)
+![](Users\liuke\OneDrive\Documents\Arduino\hackatonrastic/sweep_bb.png)
 
 (Images developed using Fritzing. For more circuit examples, see the [Fritzing project page](http://fritzing.org/projects/))
 
 ## Schematic
 
-![](C:\Users\liuke\OneDrive\Documents\Arduino\hackatonrastic/sweep_schem.png)
+![](Users\liuke\OneDrive\Documents\Arduino\hackatonrastic/sweep_schem.png)
 
 ## See also
 
